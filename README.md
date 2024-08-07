@@ -20,4 +20,4 @@ After installing all the dependencies all that is left to do is run the app on s
 streamlit run app.py
 ```
 ## The UI
-![demo image](./images/Screenshot (102).png)
+![demo image](./images/Screenshot.png)
