@@ -1,6 +1,8 @@
 # LLM Resume Guide
 End-to-End resume guide which takes the job description you are applying for and your resume in pdf format as inputs and provides insights as to what changes you might need to make in your resume to make it more desirable for the aforementioned job description.
 
+Currently deployed on Streamlit: https://end-to-end-llm-resume-guide-rn9acym8qebcpe3mbfvxx3.streamlit.app/
+
 ## Libraries used
 * protobuf
 * PyPDF2==3.0.1
