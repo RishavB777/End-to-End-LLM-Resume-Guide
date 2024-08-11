@@ -20,4 +20,7 @@ After installing all the dependencies all that is left to do is run the app on s
 streamlit run app.py
 ```
 ## The UI
+* Enter the details of the desired job description
+* Upload your resume in pdf format
+* Hit the `Submit` button
 ![demo image](./images/Screenshot.png)
